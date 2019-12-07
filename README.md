@@ -1,0 +1,2 @@
+# textlocal-complete
+textlocal sdk
