@@ -21,3 +21,19 @@ export const sendSmsToMultipleNumbers = (apikey: string, phoneNumbers: number[],
 
   return axios.post('https://api.textlocal.in/send/', params);
 };
+
+export const sendBulk = (apikey: string, recipients: Array<{ phoneNumber: number, message: string}>, sender: string, test: boolean = true) => {
+  const params = new URLSearchParams();
+
+  params.append('apikey', apikey);
+  params.append('data', JSON.stringify({
+    messages: recipients.map(recipient => ({
+      number: recipient.phoneNumber,
+      text: recipient.message
+    })),
+    sender,
+    test
+  }));
+
+  return axios.post('https://api.textlocal.in/bulk_json/', params);
+}
