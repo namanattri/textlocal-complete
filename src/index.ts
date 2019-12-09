@@ -45,3 +45,11 @@ export const sendBulk = (
 
   return axios.post('https://api.textlocal.in/bulk_json/', params);
 };
+
+export const getBalance = (apikey: string) => {
+  const params = new URLSearchParams();
+
+  params.append('apikey', apikey);
+
+  return axios.post('https://api.textlocal.in/balance/', params);
+}
