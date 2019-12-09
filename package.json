@@ -1,6 +1,6 @@
 {
   "name": "textlocal-complete",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "textlocal sdk",
   "main": "index.js",
   "scripts": {
