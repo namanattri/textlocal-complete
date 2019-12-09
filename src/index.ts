@@ -52,7 +52,7 @@ export const getBalance = (apikey: string) => {
   params.append('apikey', apikey);
 
   return axios.post('https://api.textlocal.in/balance/', params);
-}
+};
 
 export const getTemplates = (apikey: string) => {
   const params = new URLSearchParams();
@@ -60,4 +60,4 @@ export const getTemplates = (apikey: string) => {
   params.append('apikey', apikey);
 
   return axios.post('https://api.textlocal.in/get_templates/', params);
-}
+};
