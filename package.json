@@ -1,6 +1,6 @@
 {
   "name": "textlocal-complete",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "textlocal sdk",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,13 @@
     "type": "git",
     "url": "git+https://github.com:namanattri/textlocal-complete.git"
   },
-  "keywords": ["textlocal", "sms", "textlocal promise", "sms promise", "textlocal sdk"],
+  "keywords": [
+    "textlocal",
+    "sms",
+    "textlocal promise",
+    "sms promise",
+    "textlocal sdk"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
