@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com:namanattri/textlocal-complete.git"
   },
-  "keywords": [],
+  "keywords": ["textlocal", "sms", "textlocal promise", "sms promise", "textlocal sdk"],
   "author": "",
   "license": "MIT",
   "bugs": {
