@@ -1,6 +1,6 @@
 # textlocal-complete
 
-[![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.com/package/textlocal-complete)
+[![npm](https://img.shields.io/npm/v/textlocal-complete)](https://www.npmjs.com/package/textlocal-complete)
 [![npm](https://img.shields.io/npm/dw/textlocal-complete)](https://www.npmjs.com/package/textlocal-complete)
 [![install size](https://packagephobia.now.sh/badge?p=textlocal-complete)](https://packagephobia.now.sh/result?p=textlocal-complete)
 [![GitHub issues](https://img.shields.io/github/issues/namanattri/textlocal-complete)](https://github.com/namanattri/textlocal-complete/issues)
