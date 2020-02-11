@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/textlocal-complete)](https://www.npmjs.com/package/textlocal-complete)
 [![npm](https://img.shields.io/npm/dw/textlocal-complete)](https://www.npmjs.com/package/textlocal-complete)
 [![install size](https://packagephobia.now.sh/badge?p=textlocal-complete)](https://packagephobia.now.sh/result?p=textlocal-complete)
-[![GitHub issues](https://img.shields.io/github/issues/namanattri/textlocal-complete)](https://github.com/namanattri/textlocal-complete/issues)
+[![GitHub issues](https://img.shields.io/github/issues/namanattri/textlocal-complete)](https://github.com/namanattri/textlocal-complete/issues) [![Join the chat at https://gitter.im/textlocal-complete/community](https://badges.gitter.im/textlocal-complete/community.svg)](https://gitter.im/textlocal-complete/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Promise based [textlocal](https://www.textlocal.in/) client for nodejs
 
